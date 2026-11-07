@@ -1,6 +1,0 @@
-{
-  "appId": "com.dasibell.sugarburst",
-  "appName": "Sugar Burst",
-  "webDir": "www",
-  "android": { "allowMixedContent": false }
-}
