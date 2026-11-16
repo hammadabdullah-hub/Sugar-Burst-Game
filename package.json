@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "sync": "npx cap sync android",
-    "open": "npx cap open android"
+    "open": "npx cap open android",
+    "patch:android": "node scripts/patch-android.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^8.5.0",
